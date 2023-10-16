@@ -912,6 +912,12 @@ display: block;
     right: 10px ;
     top: 249px;
   }
+.carousel-wrapper img{
+    width: 91%;
+  }
+  .flip-card{
+    margin: 45px;
+  }	
   }
   @media screen and (max-width:424px) {
     .numberhead td{
