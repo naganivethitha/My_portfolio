@@ -89,10 +89,10 @@ function formDetails() {
  function tap(val) {
   var carouselContainer= document.getElementById("carousel");
  if (val === ">") {
- 		carouselContainer.scrollLeft += 500;
+ 		carouselContainer.scrollLeft += 290;
  }
  else {
- 	carouselContainer.scrollLeft -= 500;
+ 	carouselContainer.scrollLeft -= 290;
  }
 }
 
